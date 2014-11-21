@@ -11,11 +11,13 @@ tagline:          'The personal website of Anuradha Uduwage'
 description:      'The personal website of Anuradha Uduwage'
 url:              http://uduwage.github.io/
 
+
 author:
   name:           'Anuradha Uduwage'
   url:            https://twitter.com/colombounplug
 
 paginate:         1
+baseurl:          /
 
 # Custom vars
 version:          1.0.0
