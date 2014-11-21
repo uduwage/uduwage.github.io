@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Anuradha Uduwage
 tagline:          'The personal website of Anuradha Uduwage'
 description:      'The personal website of Anuradha Uduwage'
-url:              http://uduwage.github.io/uduwage.github.io/
+url:              http://uduwage.github.io/uduwage/
 
 author:
   name:           'Anuradha Uduwage'
@@ -24,4 +24,4 @@ github:
   repo:           github.com/uduwage/uduwage.github.io
 
 # This is the list of pages to incldue in the header of the website.
-pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
+pages_list:       {'About':'/about', 'Experience':'/experience','Publications':'/publications','Archive':'/archive','Feed':'/atom.xml'}
