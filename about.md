@@ -11,4 +11,5 @@ I was lucky enough to have Dr. John Riedl as my advisor during my early stage of
 
 ## Adare
 
-I am super lucky to be married to my smart, articulate, curly headed, and beautiful wife whom I call "Adare". Our home away from home is lovely old town (Alexandria, VA). Craziest things that she does always keep me on my toes. Most of her Sundays she goes through ennui period and Mondays are the toughest day in general. In case if you wonder how come a PhD candidate from Minneapolis call Alexandria as home. Answer is tavel during weekend. 
+I am super lucky to be married to my smart, articulate, curly headed, and beautiful wife whom I call "Adare". Our home away from home is lovely old town (Alexandria, VA). Craziest things that she does always keep me on my toes. Most of her Sundays she goes through ennui period and Mondays are the toughest day in general. In case if you wonder how come a PhD candidate from Minneapolis call Alexandria as home. Answer is tavel during weekend.
+{% img /assets/tradeMarkSnap.jpg 200 200 'Summer in Minneapolis' %} 
