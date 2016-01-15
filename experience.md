@@ -2,23 +2,25 @@
 layout: page
 title: Experience
 ---
+* ### Researcher(RecSys) - Comcast
+        * January 2015 - Current
 
 * ### Research Assistant - University of Minnesota
-	* Current
-
-* ### Research Intern - IBM Research Cambridge, MA
+	* January 2011 - December 2014
+ 
+* ### PhD Research Intern - IBM Research Cambridge, MA
 	* June 2014 - September 2014
 
-* ### Research Intern - eBay Inc (Search Science), San Jose, CA
+* ### PhD Research Intern - eBay Inc (Search Science), San Jose, CA
 	* June 2013 - September 2013
 
-* ### Research Intern - eBay Inc (Catalog & Classification), San Jose, CA
+* ### PhD Research Intern - eBay Inc (Catalog & Classification), San Jose, CA
 	* June 2012 - Septermber 2012
 
 * ### Graduate Teaching Assistant - University of Minnesota 
 	* January 2011 - June 2011
 
-* ### Software Automation Engineer - Cooper Industries Ltd, Minneapolis, MN
+* ### Software Automation Architect - Cooper Industries Ltd, Minneapolis, MN
 	* April 2009 - January 2011
 
 * ### Software Engineer - Parametric Technology Cooperation, St.Paul, MN
