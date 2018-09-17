@@ -18,7 +18,7 @@ author:
   url:            https://twitter.com/colombounplug
 
 paginate:         1
-baseurl:          /
+#baseurl:          /
 
 # Custom vars
 version:          1.0.0
