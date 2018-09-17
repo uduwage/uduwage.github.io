@@ -2,8 +2,11 @@
 layout: page
 title: Experience
 ---
+* ### Senior Data Scientist - Gallup
+		* January 2016 - Current
+
 * ### Researcher(RecSys) - Comcast
-        * January 2015 - Current
+    * January 2015 - January 2016
 
 * ### Research Assistant - University of Minnesota
 	* January 2011 - December 2014
