@@ -2,8 +2,11 @@
 layout: page
 title: Experience
 ---
+* ### Co-Founder & CTO - NPVisit
+    * January 2017 - Current
+
 * ### Senior Data Scientist - Gallup
-		* January 2016 - Current
+    * January 2016 - August 2018
 
 * ### Researcher(RecSys) - Comcast
     * January 2015 - January 2016
