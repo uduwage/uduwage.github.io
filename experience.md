@@ -5,7 +5,10 @@ title: Experience
 * ### Co-Founder & CTO - NPVisit
     * January 2017 - Current
 
-* ### Senior Data Scientist - Gallup
+* ### Principal Data Scientist - Snagajob
+	* January 2019 - Current    
+
+* ### Lead/Senior Data Scientist - Gallup
     * January 2016 - August 2018
 
 * ### Researcher(RecSys) - Comcast
