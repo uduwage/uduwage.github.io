@@ -5,8 +5,11 @@ title: Experience
 * ### Co-Founder & CTO - NPVisit
     * January 2017 - Current
 
+* ### Director of Data Science - Hobsons
+	* July 2020 - Current
+
 * ### Principal Data Scientist - Snagajob
-	* January 2019 - Current    
+	* January 2019 - July 2020    
 
 * ### Lead/Senior Data Scientist - Gallup
     * January 2016 - August 2018
