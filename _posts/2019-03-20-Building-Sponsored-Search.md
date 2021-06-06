@@ -42,7 +42,7 @@ don't realize is if you have a good practice of improving the relevancy the incr
 Our goal is to implement a utility function that captures multiple signals of search behavior of users and use that to 
 fine-tune the order of the list of these relevant documents. Let's dive into the ingredients of the utility function. 
 
-###Click(s)
+### Click(s)
 Formally we call it as [implicit feedback](https://en.wikipedia.org/wiki/Relevance_feedback) is a signal that
 we use to understand the preference of a user to an item. In a search engine setting, we encapsulate this preference in 
 the context of the query that the user submits to the search engine. The human judgments are noisy therefore this signal 
@@ -52,10 +52,10 @@ Instead of just taking the clicked items filtering by time spent on a clicked li
 preference or adding another layer to collect the clicks that followed up with "added to basket", "applied jobs" 
 (in a job search engine) from search are good techniques to filter the noisy clicks.
 
-###Impression(s) 
+### Impression(s) 
 How often an item (in this case a vacancy) shown. An impression is counted each time the item is shown on a search result page.
 
-###Clicks to Click-Through Rate (CTR)
+### Clicks to Click-Through Rate (CTR)
 Once you identify how you collect the clicks (with the above filtering mechanism) these clicks need to be converted 
 into a click-through rate. CTR is the ratio of how often people who see a listed item end up clicking it. 
 Click-through-rate (CTR) can be used to gauge how well your keywords and ads, and free listings, are performing. 
@@ -76,14 +76,14 @@ relevant items at the top of the search results. This means we need to combine C
 
 ```What would that be?```
 
-###CPC (Cost-Per-Click) 
+### CPC (Cost-Per-Click) 
 The amount that you pay for each click on your item. It's hard to discuss CPC without discussing 
 campaigns and bidding but for this article let's just say there exists a campaign management system where content owners 
 (job posting owners) can increase the amount they want to pay as they wish based on the applications/traffic they get to 
 see on their job postings.  The other side of the CPC is RPC (Revenue Per Click) this is how search engines or ad 
 publishers look at the amount that advertisers are paying for a click. 
 
-###Snagajob search engine setup
+### Snagajob search engine setup
 
 At Snagajob, we were using Elastic Search as our search engine technology and on top of elastic search, we had Learning 
 to Rank (LTR) for ranking optimization (Stay tuned for Learning to Rank article). In a nutshell, LTR is a machine learning 
