@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Building Sponsored Search (Yield Optimization Framework - Paid Search)
 comments: true
 useMath: true
