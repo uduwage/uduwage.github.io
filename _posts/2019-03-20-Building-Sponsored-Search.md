@@ -6,7 +6,7 @@ useMath: true
 ---
 
 I recently joined Snagajob, which is the leading part-time job search platform in the US. Those who are familiar with 
-Indeed or LinkedIn - Jobs (feature), [Snagajob](http://www.snagajob.com) is similar but the primary focus is on part-time jobs. 
+[Indeed](http://www.indeed.com) or [LinkedIn](http://www.linkedin.com) - Jobs (feature), [Snagajob](http://www.snagajob.com) is similar but the primary focus is on part-time jobs. 
 [Snagajob](http://www.snagajob.com) also have the shifts concepts where restaurants work with Snagajob to set up shifts schedule. 
 This post is primarily going to cover how I implemented the Sponsored Search at [Snagajob](http://www.snagajob.com) 
 which lead the company to move in the direction of a two-sided marketplace (Job Advertisers vs Job Seekers). In the next few articles 
