@@ -27,4 +27,4 @@ github:
   repo:           https://github.com/uduwage/uduwage.github.io
 
 # This is the list of pages to incldue in the header of the website.
-pages_list:       {'About':'/about', 'Experience':'/experience','Publications':'/publications','Archive':'/archive','Feed':'/atom.xml'}
+pages_list:       {'Experience':'/experience','Publications':'/publications','Archive':'/archive','About':'/about', 'Feed':'/atom.xml'}
