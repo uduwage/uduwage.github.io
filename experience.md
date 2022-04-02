@@ -2,11 +2,11 @@
 layout: page
 title: Experience
 ---
+* ### Director of Data Science - PowerSchool Inc
+	* July 2020 - Current
+
 * ### Co-Founder & CTO - NPVisit
     * January 2017 - Current
-
-* ### Director of Data Science - Hobsons
-	* July 2020 - Current
 
 * ### Principal Data Scientist - Snagajob
 	* January 2019 - July 2020    
