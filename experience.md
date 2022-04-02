@@ -6,6 +6,9 @@ title: Experience
 * ### Director of Machine Learning - PowerSchool Inc
 	* July 2020 - Current
 
+* ### Co-Founder & CTO - NPVisit
+    * January 2017 - Current
+
 * ### Principal Data Scientist - Snagajob
 	* January 2019 - July 2020
 
