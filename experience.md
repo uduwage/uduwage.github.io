@@ -3,7 +3,7 @@ layout: page
 title: Experience
 ---
 
-* ### Director of Machine Learning - PowerSchool Inc
+* ### Director, Machine Learning - PowerSchool Inc
 	* July 2020 - Current
 
 * ### Co-Founder & CTO - NPVisit
