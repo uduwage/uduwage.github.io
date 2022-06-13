@@ -15,6 +15,12 @@ Morten Warncke-Wang, **Anuradha Uduwage**, Zhenhua Dong, John Riedl [PDF](http:/
 ##### 4. User Session Identification Based on Strong Regularities in Inter-activity Time
 Aaron Halfaker, Oliver Keyes, Daniel Kluver, Jacob Thebault-Spieker, Tien Nguyen, Kenneth Shores, **Anuradha Uduwage**, Morten Warncke-Wang [PDF](http://arxiv.org/pdf/1411.2878.pdf)
 
+##### 5. An online experimental platform to assess trust in the media
+Anuradha Uduwage - Gallup Publication for Knight Foundation Report [pdf](https://knightfoundation.org/wp-content/uploads/2020/02/KnightFoundation_NewsLens1_Client_Report_070918_ab.pdf)
+
+##### 6. People like you: How personal and community ratings influence trust in media
+Anuradha Uduwage - Gallup Publication for Knight Foundation Report [pdf](https://knightfoundation.org/wp-content/uploads/2020/03/KnightFoundation_NewsLens2_Client_Report_071918v2_ab.pdf)
+
 ### In Progress
 
 #### 1. Wikipedia: Multilingual Users: Who Contribute to What?
