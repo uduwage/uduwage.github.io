@@ -3,13 +3,16 @@ layout: page
 title: Experience
 ---
 
+* ### Director, Machine Learning - Search, Personalization, Ads - Shipt
+	* May 2022 - Current
+
 * ### Director, Machine Learning - PowerSchool Inc
-	* July 2020 - Current
+	* July 2020 - May 2022
 
 * ### Co-Founder & CTO - NPVisit
     * January 2017 - Current
 
-* ### Principal Data Scientist - Snagajob
+* ### Principal Data Scientist - Search & Recommendation - Snagajob
 	* January 2019 - July 2020
 
 * ### Co-Founder & CTO - NPVisit
@@ -18,7 +21,7 @@ title: Experience
 * ### Lead/Senior Data Scientist - Gallup
     * January 2016 - August 2018
 
-* ### Researcher(RecSys) - Comcast
+* ### Research Scientist - Recommendations - Comcast
     * January 2015 - January 2016
 
 * ### Research Assistant - University of Minnesota
